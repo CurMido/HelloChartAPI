@@ -1,6 +1,6 @@
 #HelloChartAPI-Android
 ####缘由:
->在Android开发过程中，由于项目需求，对图表类控件使用比较频繁，在各种各样的图表类中，选择了HelloChart这个图表库，但是在使用时发现这类控件并没有太多的使用说明，网络上对此介绍也比较少。在使用的时候需要花费时间去观察每个子类的方法所代表的意义，所以写一份关于HelloChart问使用文档。
+>在Android开发过程中，由于项目需求，对图表类控件使用比较频繁，在各种各样的图表类中，选择了HelloChart这个图表库，但是在使用时发现这类控件并没有太多的使用说明，网络上对此介绍也比较少。在使用的时候需要花费时间去观察每个子类的方法所代表的意义，所以写一份关于HelloChart的使用文档。
 
 
 ##类LineChartView
@@ -147,3 +147,5 @@ public void AddLineChartDate(){
 		lineChart.setLineChartData(chartData);//将数据添加到控件中
 	}
 ```
+
+##后续继续补充
